@@ -1,7 +1,7 @@
-# Tealy v0.1.0
-Tealy is an IRC-like server built with asyncio that provides basic functionality to the clients.
+# Tealy v0.1.5
+Tealy is an IRC-server like project with asynchronous networking implemented with asyncio.
 
-The server supports multiple connections and simultaneous broadcasts and can be connected to via e.g. telnet.
+It currently provides a basic chat service to clients. Clients can connect to the server with e.g telnet.
 
 ![demo image](https://github.com/oskhi/tealy/assets/103853998/cefbae85-95d4-4535-afb4-de8b54e67484)
 
